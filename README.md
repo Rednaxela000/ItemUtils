@@ -1,3 +1,5 @@
+![ItemUtils Banner](banner.png)
+
 # ItemUtils
 
 [![JitPack](https://jitpack.io/v/Rednaxela000/ItemUtils.svg)](https://jitpack.io/#Rednaxela000/ItemUtils)
@@ -44,4 +46,4 @@ TODO
 ## License
 
 This project is currently released under the MIT License.
-See [LICENSE](https://github.com/Rednaxela000/ItemUtils/blob/master/LICENSE) for full text.
+See [LICENSE](LICENSE) for full text.
