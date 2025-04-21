@@ -1,5 +1,8 @@
 # ItemUtils
 
+[![JitPack](https://jitpack.io/v/Rednaxela000/ItemUtils.svg)](https://jitpack.io/#Rednaxela000/ItemUtils)
+[![Java CI](https://github.com/Rednaxela000/ItemUtils/actions/workflows/ci.yml/badge.svg)](https://github.com/Rednaxela000/ItemUtils/actions/workflows/ci.yml)
+
 > A lightweight Java library for easy creation and manipulation of Minecraft `ItemStack`s across Spigot 1.8–1.21.5+.
 
 ---
@@ -34,13 +37,9 @@ Add the repository and dependency to your `pom.xml`:
 </dependencies>
 ```
 
-## Contributing
+## Usage
 
-1. Fork the repo
-2. Create a feature branch (`git checkout -b feature/YourFeature`)
-3. Commit your changes (`git commit -m 'Add new feature'`)
-4. Push to the branch (`git push origin feature/YourFeature`)
-5. Open a Pull Request
+TODO
 
 ## License
 
